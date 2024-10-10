@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../../src/assets/img/headshot.jpg"),
   imageSize: 375,
   message:
-    "My name is Anastan. ",
+    "I’m Anastan Gnanapragasam, a Management Engineering student at the University of Waterloo with a strong focus on leveraging software and data to create meaningful, real-world solutions. Over the course of several internships, I’ve gained hands-on experience as a Software Engineer, Data Engineer, and a Data Analyst, where I’ve worked on building scalable systems, automating complex workflows, and optimizing data-driven processes. Whether it's streamlining operations or improving data accuracy, I’m driven by a desire to make technology work smarter. I’m particularly excited about the intersection of data and software engineering, constantly exploring new ways to integrate AI and automation into everyday challenges. With a curious mindset, I’m always learning, testing, and building solutions that push boundaries. Outside of work, I’m passionate about soccer and enjoy diving into a wide range of films, always looking to discover new stories and experiences.",
   // resume: "https://docs.google.com/document/d/e/2PACX-1vS3H4djip2oc5zVUhn3RXhwIXQ_sD9mpCUsFeYTQCp0iVDSD-fNF2eqRJxsb5Vjm7AkC0uaH9EyYTvv/pub",
 };
 
