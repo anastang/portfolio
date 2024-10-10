@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Anastan",
   middleName: "",
   lastName: "Gnanapragasam",
-  message: " test ",
+  message: " Management Engineering Student @ University of Waterloo ",
   icons: [
     {
       image: "fa-github",
@@ -114,10 +114,10 @@ const leadership = {
 // GET IN TOUCH SECTION
 const getInTouch = {
   show: true,
-  heading: "Reach Out",
+  heading: "Lets Connect!",
   message:
-    "I'm looking for a Full-Time role with a great company that will allow me to break into the technology sector. Whether thats a role as an intern, junior positions, or working with a team on the back-end of development. Or if you have any questions about any projects or setting up an interview, please feel free to email me at",
-  email: "dandycodes@gmail.com"
+    "I'm currently looking for Winter/Summer 2025 SWE opportunities! I'd love to chat with you, so feel free to connect and reach out to me at",
+  email: "agnanapr@uwaterloo.ca"
 };
 
 const experiences = {
@@ -140,4 +140,4 @@ const experiences = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
+export { navBar, mainBody, about, repos, leadership, getInTouch, experiences };

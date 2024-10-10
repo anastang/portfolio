@@ -10,10 +10,10 @@ const MainBody = React.forwardRef(
         fluid
         id="home"
         style={{
-          background: `linear-gradient(136deg,${gradient})`,
+          background: '#363636',
           backgroundSize: "1200% 1200%",
         }}
-        className="title bg-transparent bgstyle text-light min-vh-100 d-flex align-content-center align-items-center flex-wrap m-0"
+        className="title bgstyle text-light min-vh-100 d-flex align-content-center align-items-center flex-wrap m-0"
       >
         <div id="stars"></div>
         <Container className="text-center">
@@ -21,7 +21,7 @@ const MainBody = React.forwardRef(
             {title}
           </h1>
           <Typist>
-            <div className="lead typist">
+            <div className="lead typist" style={{ fontSize: "30px" }}>
               {message}
             </div>
           </Typist>
