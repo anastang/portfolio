@@ -1,7 +1,7 @@
-# TechPortfolio
+# Portfolio
 
-This is my personal blog that was created from an open source code using Javascript &amp; React!
+This is my personal portfolio that was created using Javascript &amp; React!
 
 ### Deploying Application
 
-This application was deployed on my website: https://anastang.github.io/Portfolio/
+This application was deployed on my website: https://anastang.github.io/portfolio/
