@@ -1,7 +1,7 @@
 {
   "name": "developers-portfolio",
   "description": "My personal portfolio, built to showcase my recent projects.",
-  "homepage": "https://anastang.github.io/Portfolio",
+  "homepage": "https://anastang.github.io/portfolio",
   "version": "2.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -10,7 +10,6 @@
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
     "gh-pages": "^4.0.0",
-    "particles.js": "^2.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
     "react-dom": "^18.2.0",
