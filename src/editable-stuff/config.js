@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../../src/assets/img/headshot.jpg"),
   imageSize: 375,
   message:
-    "I’m Anastan Gnanapragasam, a Management Engineering student at the University of Waterloo with a strong focus on leveraging software and data to create meaningful, real-world solutions. Over the course of several internships, I’ve gained hands-on experience as a Software Engineer, Data Engineer, and a Data Analyst, where I’ve worked on building scalable systems, automating complex workflows, and optimizing data-driven processes. Whether it's streamlining operations or improving data accuracy, I’m driven by a desire to make technology work smarter. I’m particularly excited about the intersection of data and software engineering, constantly exploring new ways to integrate AI and automation into everyday challenges. With a curious mindset, I’m always learning, testing, and building solutions that push boundaries. Outside of work, I’m passionate about soccer and enjoy diving into a wide range of films, always looking to discover new stories and experiences.",
+    "I’m Anastan Gnanapragasam, a Management Engineering student at the University of Waterloo with an option in Artificial Intelligence. I’ve worked across data engineering, software, and analytical roles, where I’ve focused on building reliable data pipelines, building resilient, high-performance systems, and applying AI to solve real-world problems. I’m especially interested in the intersection of scalable infrastructure and intelligent systems — how well-designed data platforms can power faster decisions, better products, and smarter automation. Outside of work, I’m passionate about soccer and film, and I’m always looking to learn something new, both technically and creatively.",
   // resume: "https://docs.google.com/document/d/e/2PACX-1vS3H4djip2oc5zVUhn3RXhwIXQ_sD9mpCUsFeYTQCp0iVDSD-fNF2eqRJxsb5Vjm7AkC0uaH9EyYTvv/pub",
 };
 
@@ -56,7 +56,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "anastang", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["private-data-rag-pipeline", "satellite-image-classification", "uwstudysync", "storm-tracker", "devcoin", "PlayByGPT"],
+  specificRepos: ["mindflux", "private-data-rag-pipeline", "satellite-image-classification", "uwstudysync", "storm-tracker", "devcoin", "PlayByGPT"],
 };
 
 // Leadership SECTION
@@ -116,7 +116,7 @@ const getInTouch = {
   show: true,
   heading: "Lets Connect!",
   message:
-    "I'm currently looking for Winter/Summer 2025 SWE opportunities! I'd love to chat with you, so feel free to connect and reach out to me at",
+    "I'm currently looking for Fall 2025 opportunities! I'd love to chat with you, so feel free to connect and reach out to me at",
   email: "agnanapr@uwaterloo.ca"
 };
 
